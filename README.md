@@ -6,5 +6,3 @@
 - 新增`clean`参数（可在脚本执行完毕后清理压缩文件）
 - 新增`restart`参数（清理已经安装的nodejs以及解压的数据包）
 - 参数支持混合使用（使用案例：bash recovery-blog.sh clean restart）
-## v1.1
-- 新增同步远程仓库参数`s`or`sync`
